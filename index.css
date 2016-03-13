@@ -3,15 +3,15 @@ body {
 }
 
 #teamintroduction {
-    background-color: #fff;
+    background: url(image/bg.jpg) no-repeat 100% 100%;
 }
 
 #zhangjianwei {
-    background-color: rgb(52, 143, 212);
+    background-color: #348FD4;
 }
 
 #dingjunjie {
-    background-color: rgb(6, 64, 108);
+    background-color: #06406C;
 }
 
 #jiangxiaoyu {
