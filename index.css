@@ -1,0 +1,56 @@
+body {
+    font-family: 'Chelsea Market', Georgia, serif;
+}
+
+#teamintroduction {
+    background-color: #fff;
+}
+
+#zhangjianwei {
+    background-color: rgb(52, 143, 212);
+}
+
+#dingjunjie {
+    background-color: rgb(6, 64, 108);
+}
+
+#jiangxiaoyu {
+    background-color: #fff;
+}
+
+#jiangxiaoyu .info {
+    color: #000;
+}
+
+#fengmin {
+    background-color: rgb(76, 13, 9);
+}
+
+#wangshiqi {
+    background-color: rgb(204, 64, 55);
+}
+
+.info {
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+}
+
+.info .photo {
+    display: block;
+    position: relative;
+    top: -30px;
+    margin: 0 auto;
+    height: 200px;
+    width: 200px;
+}
+
+h1 {
+    margin: 10px 10px 0;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+p {
+    margin: 10px 10px 0;
+}
